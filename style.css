@@ -12,8 +12,11 @@
   }
   
   h1 {
-    -webkit-text-stroke: 2px red;
-    color: white;
+    -webkit-text-stroke: 3px black;
+    color: red;
+    font-style: oblique;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 70px;
 
   }
   
